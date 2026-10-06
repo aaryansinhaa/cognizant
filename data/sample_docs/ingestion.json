@@ -1,0 +1,6 @@
+{
+  "id": "ingestion_notes",
+  "text": "Ingestion loads files, decodes UTF-8, and attaches metadata. Do not lowercase legal or medical text by default. Preserve punctuation. Sort file paths so the same folder always produces the same document order.",
+  "source": "notes/ingestion.md",
+  "topic": "ingestion"
+}

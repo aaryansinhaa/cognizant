@@ -1,0 +1,3 @@
+Embeddings turn text into numerical vectors. Similar meanings land near each other
+in vector space. Cosine similarity measures the angle between two vectors and is
+the usual score for dense retrieval. FastEmbed runs ONNX models on CPU.
